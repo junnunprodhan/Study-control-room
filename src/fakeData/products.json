@@ -2,14 +2,14 @@
   {
     "id": "1",
     "title": "Read Physics Book",
-    "time": "30",
+    "time": 30,
     "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FBasic-Physics-Self-Teaching-Teaching-Guides%2Fdp%2F111962990X&psig=AOvVaw2u8Si14B2PEwmhPBRiILYk&ust=1664467641516000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDawrvvt_oCFQAAAAAdAAAAABAW"
 
   },
   {
     "id": "2",
     "title": "Read English Book",
-    "time": "20",
+    "time": 20,
     "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoenglish.me%2Fbooks-to-learn-english%2F&psig=AOvVaw00SasdQO9kTcaqYd3mWpkv&ust=1664467819166000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjPg5Twt_oCFQAAAAAdAAAAABAD"
 
   },

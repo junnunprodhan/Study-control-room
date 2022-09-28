@@ -5,11 +5,15 @@ position:relative;
     position: sticky;
 }
 .btn-activate{
-    background-color: blue;
+    background-color:#516BEB;
     border: none;
     width: 250px;
     height: 50px;
     padding: 10px;
     margin: 40px;
     color: white;
+}
+.btn-activate:hover{
+    background-color: blue;
+    cursor: pointer;
 }

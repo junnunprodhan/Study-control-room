@@ -2,49 +2,49 @@
   {
     "id": "1",
     "title": "Read Physics Book",
-    "time": "30",
+    "time": 30,
     "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569197039l/51380777.jpg"
 
   },
   {
     "id": "2",
     "title": "Read English Book",
-    "time": "20",
+    "time": 20,
     "img": "https://www.learnenglishteam.com/wp-content/uploads/2018/10/ENGLISH-GRAMMAR-PRACTICE-min.png"
 
   },
   {
     "id": "3",
     "title": "Read Chemistry Book",
-    "time": "40",
+    "time": 40,
     "img": "https://chemistryhall.com/wp-content/uploads/2019/06/clayden.jpg"
 
   },
   {
     "id": "4",
     "title": "Writing",
-    "time": "50",
+    "time": 50,
     "img": "https://www.shoutmeloud.com/wp-content/uploads/2019/09/how-to-improve-english-writing-skills.jpg"
 
   },
   {
     "id": "5",
     "title": "Read Biology Book",
-    "time": "40",
+    "time": 40,
     "img": "https://gcecompilation.com/wp-content/uploads/2017/10/012484-326x420.jpg"
 
   },
   {
     "id": "6",
     "title": "Solve mathmatic",
-    "time": "40",
+    "time": 40,
     "img": "https://4.imimg.com/data4/WR/PP/MY-9375281/objective-mathematics-500x500.jpg"
   },
   
   {
     "id": "7",
     "title": "Read Newspaper",
-    "time": "20",
+    "time": 20,
     "img": "https://images.jdmagicbox.com/rep/b2b/english-newspaper/english-newspaper-4.jpg"
 
   },
@@ -52,7 +52,7 @@
   {
     "id": "8",
     "title": "Read technology Book",
-    "time": "40",
+    "time": 45,
     "img": "https://m.media-amazon.com/images/I/51y3TyVKOuL._SL500_.jpg"
 
   },
@@ -60,7 +60,7 @@
   {
     "id": "9",
     "title": "Read extra Book",
-    "time": "40",
+    "time": 35,
     "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557182975l/45006681._SY475_.jpg"
 
   }

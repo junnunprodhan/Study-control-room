@@ -15,7 +15,7 @@
 }
 
 .btn-add{
-    background-color: blue;
+    background-color:#516BEB;
     color: white;
     width: 100%;
     padding: 12px 8px;
@@ -23,6 +23,10 @@
     border-radius: 5px;
     position:absolute;
     bottom: 0;
+}
+.btn-add:hover{
+    background-color: blue;
+    cursor: pointer;
 }
 @media screen and (max-width:688px){
     .card{

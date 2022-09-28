@@ -3,16 +3,23 @@ import './User.css'
 import AddBreak from '../AddBreak/AddBreak';
 import StudyDetails from '../StudyDetails/StudyDetails';
 import UserInfo from '../UserInfo/UserInfo';
+import Swal from 'sweetalert2';
 
-const User = () => {
+
+const User = ({card}) => {
+    const handleAlart =()=>{
+      Swal.fire("Good job","You clicked the button!","success")
+    console.log('ami')
+    }
     return (
         <div className='user-activity'>
             <div className='user-card'>
                 <UserInfo></UserInfo>
                 <h3>Add a Break Time</h3>
                 <AddBreak></AddBreak>
-                <StudyDetails></StudyDetails>
-                <button className='btn-activate'>Activity Completed</button>  
+                <StudyDetails card={card}></StudyDetails>
+                <button onClick={handleAlart} className='btn-activate'>Activity Completed</button>
+                 
             </div>          
         </div>
     );
