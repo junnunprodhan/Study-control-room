@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cards from '../Cards/Cards';
+import User from '../User/User';
 import './Home.css'
 
 const Home = () => {
@@ -15,7 +16,7 @@ const Home = () => {
                 <Cards card={card}></Cards>
             </div>
             <div className='user-container'>
-                <h1>user interface</h1>
+                <User></User>
             </div>
         </div>
     );

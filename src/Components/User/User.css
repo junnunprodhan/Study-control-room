@@ -1,0 +1,9 @@
+.btn-activate{
+    background-color: blue;
+    border: none;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    margin: 40px;
+    color: white;
+}

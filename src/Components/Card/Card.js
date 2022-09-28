@@ -8,7 +8,7 @@ const{img,title,time}=card;
            <div>
            <img src={img} alt="" />
             <h3>{title}</h3>
-            <p>Time required : {time}</p>
+            <p>Time required : {time} minutes</p>
             <button className='btn-add'>Add to List</button>
            </div>
         </div>

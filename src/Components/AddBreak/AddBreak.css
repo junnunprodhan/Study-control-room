@@ -1,0 +1,13 @@
+.break-time-container{
+    display: flex;
+    text-align: center;
+    background-color:#FFE6F7;
+    
+}
+.break-time-container div{
+    background-color: #FFD6EC;
+    border-radius: 10px;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}

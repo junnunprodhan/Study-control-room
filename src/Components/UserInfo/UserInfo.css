@@ -1,0 +1,11 @@
+.info-containers{
+    display: flex;
+    margin-right: 10px;
+}
+.info{
+    background-color:#FFE6F7;
+    text-align: center;
+    height: 100px;
+    width: 115px;
+    margin-right: 10px;
+}

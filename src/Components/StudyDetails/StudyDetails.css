@@ -1,0 +1,9 @@
+.study-info{
+    background-color:#FFE6F7;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    margin: 30px;
+    display: flex;
+    justify-content:space-around;
+}
