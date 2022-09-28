@@ -17,4 +17,18 @@
     border-radius: 10px;
     padding: 10px;
     box-shadow: 2px 2px 4px lightgrey;
+    position: relative;
+}
+@media screen and (max-width:688px){
+    .home-container{
+        display: block;
+        margin:20px;
+    }
+}
+@media only screen and (min-width:689px) and (max-width:992px){
+    .home-container{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        margin-left: 40px;
+    }
 }

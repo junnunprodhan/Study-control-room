@@ -1,3 +1,9 @@
+.user-activity{
+position:relative;
+}
+.user-card{
+    position: sticky;
+}
 .btn-activate{
     background-color: blue;
     border: none;
