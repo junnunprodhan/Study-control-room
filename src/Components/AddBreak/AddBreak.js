@@ -2,6 +2,7 @@ import React from 'react';
 import './AddBreak.css'
 
 const AddBreak = () => {
+    
     return (
         <div className='break-time-container'>
            <button>

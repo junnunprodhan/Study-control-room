@@ -14,9 +14,10 @@ const Home = () => {
     },[])
   
     const handleAddCard=(id)=>{
-        console.log(id)
+        // console.log(id)
         const newCount=[...count, id];
         setCount(newCount)
+        
     }
     return (
         <div className='home-container'>
@@ -25,7 +26,7 @@ const Home = () => {
             </div>
             <div className='user-container'>
                 <div className='user-div'>
-                <User card={card}></User>
+                <User count={count} card={card}></User>
                 </div>
             </div>
         </div>

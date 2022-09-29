@@ -2,7 +2,7 @@ import React from 'react';
 import './Card.css'
 
 const Card = ({card,handleAddCard}) => {
-const{img,title,time,id}=card;
+const{img,title,time}=card;
     return (
         <div className='card'>
            <div>
