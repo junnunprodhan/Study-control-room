@@ -1,5 +1,6 @@
 
 .card{
+    background-color:#FFE6F7;
     border-radius: 10px;
     box-shadow: 2px 2px 4px lightgray;
     position: relative;
@@ -30,6 +31,7 @@
 }
 @media screen and (max-width:688px){
     .card{
+        margin-top:10px;
         border-radius: 10px;
         box-shadow: 2px 2px 4px lightgray;
         position: relative;

@@ -19,10 +19,24 @@
     box-shadow: 2px 2px 4px lightgrey;
     position: relative;
 }
+.user-div{
+    position: sticky;
+    top: 0;
+}
 @media screen and (max-width:688px){
     .home-container{
         display: block;
         margin:20px;
+
+    }
+    .user-div{
+        padding-top: 10px;
+        margin-top: 10px;
+        position:relative;
+        
+    }
+    .user-container{
+        margin-top: px;
     }
 }
 @media only screen and (min-width:689px) and (max-width:992px){

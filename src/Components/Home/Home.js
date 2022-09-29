@@ -24,7 +24,9 @@ const Home = () => {
                 <Cards card={card} handleAddCard={handleAddCard}></Cards>
             </div>
             <div className='user-container'>
+                <div className='user-div'>
                 <User card={card}></User>
+                </div>
             </div>
         </div>
     );
