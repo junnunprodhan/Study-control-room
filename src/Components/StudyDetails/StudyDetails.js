@@ -15,7 +15,7 @@ const StudyDetails = ({card}) => {
             </div>
             <div className='study-info'>
                 <h4>Break time :</h4>
-                <h4>100000000 <span>Minutes</span></h4>
+                <h4><span>Minutes</span></h4>
             </div>
         </div>
     );
