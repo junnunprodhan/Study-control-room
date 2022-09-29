@@ -1,7 +1,7 @@
 .break-time-container{
     display: flex;
     text-align: center;
-    background-color:#FFE6F7;
+    background-color: #FFD6EC;
     
 }
 /* .break-time-container div{
@@ -11,12 +11,25 @@
     height: 80px;
     margin: 5px;
 } */
-.break-time-container button{
-    background-color: #FFD6EC;
+button{
+    background-color: #FFA1CF;
     border-radius: 10px;
-    width: 80px;
-    height: 80px;
+    width:70px;
+    height: 70px;
     margin: 5px;
     border: none;
     cursor: pointer;
+}
+.container-time{
+    background-color: #FFD6EC
+}
+.time-container{
+    display: flex;
+    width: 70%;
+    padding: 10px;
+    height: 60px;
+}
+.study-info{
+    display: flex;
+    justify-content: space-around;
 }

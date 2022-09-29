@@ -19,11 +19,13 @@
     background-color:#516BEB;
     color: white;
     width: 100%;
+    height: 35px;
     padding: 12px 8px;
     border:none;
     border-radius: 5px;
     position:absolute;
     bottom: 0;
+    right: 0;
 }
 .btn-add:hover{
     background-color: blue;
