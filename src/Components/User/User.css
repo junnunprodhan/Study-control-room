@@ -1,8 +1,9 @@
 .user-activity{
-position:relative;
+    position:relative;
 }
 .user-card{
     position: sticky;
+    top: 0;
 }
 .btn-activate{
     background-color:#516BEB;

@@ -9,7 +9,6 @@ import Swal from 'sweetalert2';
 const User = ({card}) => {
     const handleAlart =()=>{
       Swal.fire("Good job","You clicked the button!","success")
-    console.log('ami')
     }
     return (
         <div className='user-activity'>

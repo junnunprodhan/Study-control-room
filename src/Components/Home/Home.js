@@ -6,17 +6,17 @@ import './Home.css'
 const Home = () => {
     const [card, setCard]=useState([]);
     const [count,setCount]=useState([])
-    // console.log(count)
+ 
     useEffect(()=>{
         fetch('products.json')
         .then(res=>res.json())
         .then(data=>setCard(data))
     },[])
+  
     const handleAddCard=(id)=>{
+        console.log(id)
         const newCount=[...count, id];
         setCount(newCount)
-
-    
     }
     return (
         <div className='home-container'>

@@ -3,8 +3,8 @@ import './StudyDetails.css'
 
 const StudyDetails = ({card}) => {
     
-    const totalTime =card.reduce((total,pd)=>total + pd.time, 0);
-    console.log(totalTime)
+    // const totalTime =card.reduce((total,pd)=>total + pd.time, 0);
+    // console.log(totalTime)
 
     return (
         <div>
